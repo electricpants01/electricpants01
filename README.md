@@ -1,10 +1,9 @@
-# Hi, I'm Christian 👋🏾 👩🏾‍💻
-
-<img src="" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
-
-
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src=""></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+<p align="center">
+<a href="https://medium.com/@locotodev"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
+<a href="https://speakerdeck.com/skydoves"><img alt="Speaker" src="https://skydoves.github.io/badges/speaker.svg"/></a></br>
+<a href="https://github.com/sponsors/skydoves"><img alt="Sponsors" src="https://skydoves.github.io/badges/badge_sponsors.svg"/></a>
+<a href="https://twitter.com/electricomposer"><img alt="Twitter" src="https://skydoves.github.io/badges/twitter.svg"/></a>
+<a href="https://androiddev.social/@skydoves"><img alt="Mastodon" src="https://skydoves.github.io/badges/mastodon.svg"/></a>
+<a href="https://www.youtube.com/@skydoves"><img alt="YouTube" src="https://skydoves.github.io/badges/dove-youtube.svg"/></a>
+<a href="https://github.com/electricpants01"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=electricpants01&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+</p
