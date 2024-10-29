@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="https://developers.google.com/profile/u/locoto"><img alt="Google Developer Expert" src="https://skydoves.github.io/badges/gde.svg"/></a> 
 <a href="https://medium.com/@locotodev"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 <a href="https://speakerdeck.com/skydoves"><img alt="Speaker" src="https://skydoves.github.io/badges/speaker.svg"/></a></br>
 <a href="https://github.com/sponsors/skydoves"><img alt="Sponsors" src="https://skydoves.github.io/badges/badge_sponsors.svg"/></a>
